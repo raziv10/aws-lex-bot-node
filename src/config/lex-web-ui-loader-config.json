@@ -1,0 +1,52 @@
+{
+  "region": "us-east-1",
+  "cognito": {
+    "poolId": "us-east-1:5d8ffbda-22a6-419a-81ec-77a09afa7883",
+    "aws_cognito_region": "us-east-1",
+    "region": "us-east-1"
+  },
+  "lex": {
+    "botName": "bankAssistant",
+    "initialText": "You can ask me for helping you with your bank enquiries. Just type \"Hello\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'Namaste' to get started.",
+    "initialUtterance": "",
+    "region": "us-east-1",
+    "retryOnLexPostTextTimeout": false,
+    "retryCountPostTextTimeout": 1,
+    "v2BotId": "",
+    "v2BotAliasId": "",
+    "v2BotLocaleId": ""
+  },
+  "ui": {
+    "parentOrigin": "http://localhost:8000",
+    "toolbarTitle": "NIC ASIA",
+    "toolbarLogo": "",
+    "positiveFeedbackIntent": "Thumbs up",
+    "negativeFeedbackIntent": "Thumbs down",
+    "helpIntent": "Help",
+    "enableLogin": false,
+    "forceLogin": false,
+    "AllowSuperDangerousHTMLInMessage": true,
+    "shouldDisplayResponseCardTitle": false,
+    "minButtonContent": "",
+    "hideInputFieldsForButtonResponse": false,
+    "pushInitialTextOnRestart": false,
+    "directFocusToBotInput": false,
+    "showDialogStateIcon": false,
+    "backButton": false,
+    "messageMenu": true,
+    "hideButtonMessageBubble": false,
+    "saveHistory": false
+  },
+  "polly": {
+    "voiceId": "Salli"
+  },
+  "recorder": {
+    "preset": "speech_recognition"
+  },
+  "iframe": {
+    "iframeOrigin": "",
+    "shouldLoadIframeMinimized": false,
+    "iframeSrcPath": "/index.html#/?lexWebUiEmbed=true"
+  }
+}
