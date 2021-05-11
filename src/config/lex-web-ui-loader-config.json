@@ -7,7 +7,7 @@
   },
   "lex": {
     "botName": "bankAssistant",
-    "initialText": "You can ask me for helping you with your bank enquiries. Just type \"Hello\" or click on the mic and say it.",
+    "initialText": "You can ask me for helping you with your bank enquiries. Just type \"Namaste\" or click on the mic and say it.",
     "initialSpeechInstruction": "Say 'Namaste' to get started.",
     "initialUtterance": "",
     "region": "us-east-1",
@@ -21,8 +21,7 @@
     "parentOrigin": "http://localhost:8000",
     "toolbarTitle": "NIC ASIA",
     "toolbarLogo": "",
-    "positiveFeedbackIntent": "Thumbs up",
-    "negativeFeedbackIntent": "Thumbs down",
+
     "helpIntent": "Help",
     "enableLogin": false,
     "forceLogin": false,

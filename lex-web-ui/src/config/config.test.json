@@ -12,8 +12,8 @@
   },
   "ui": {
     "parentOrigin": "http://localhost:8080",
-    "pageTitle": "Order Flowers Bot",
-    "toolbarTitle": "Order Flowers"
+    "pageTitle": "Bank Assistant Bot",
+    "toolbarTitle": "Bank Assistant Bot"
   },
   "recorder": {
     "preset": "speech_recognition"
