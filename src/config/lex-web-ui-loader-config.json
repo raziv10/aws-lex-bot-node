@@ -7,9 +7,10 @@
   },
   "lex": {
     "botName": "bankAssistant",
-    "initialText": "You can ask me for helping you with your bank enquiries. Just type \"Namaste\" or click on the mic and say it.",
+
+    "initialText": " Namaste !! I am NIC ASIA chatbot, your Digital Assistant Bot.Please use following buttons to get NIC ASIA related information or ask me a question. I will try my best to answer your queries.",
     "initialSpeechInstruction": "Say 'Namaste' to get started.",
-    "initialUtterance": "",
+    "initialUtterance": "Namaste",
     "region": "us-east-1",
     "retryOnLexPostTextTimeout": false,
     "retryCountPostTextTimeout": 1,
